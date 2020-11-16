@@ -105,6 +105,8 @@ This unit's homework assignment can be viewed here:
 
 - [Security 101 Homework File](../../2-Homework/01-Security-101)
 
+This link will be updated once the Homework Assignment is released
+
 
 ### Looking Forward 
 
