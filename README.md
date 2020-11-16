@@ -13,8 +13,8 @@ For each class, this repository will be updated (~ 30 minutes before/after). <br
 ### Unit 1: Security 101
 - [~~Homework Assignment~~](2-Homework/Cybersecurity101/)
 - [Day 1](1 - Lesson Plans/1 - Cybersecurity 101/1)
-- [Day 2](1-Lesson-Plans/01-Cybersecurity-101/2)
-- [Day 3](1-Lesson-Plans/01-Cybersecurity-101/3)
+- [Day 2](1 - Lesson Plans/1 - Cybersecurity 101/2)
+- [Day 3](1 - Lesson Plans/1 - Cybersecurity 101/3)
 
 ### Unit 2: Governance, Risk, and Compliance
 - [~~Homework Assignment~~](2-Homework/02-GRC/)
