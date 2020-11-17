@@ -347,7 +347,7 @@ Cybersecurity is concerned with the confidentiality, privacy, and integrity of d
 ### 13. Activity Review: CIA Triad and Security Scenarios
 
 - [Solution Guide: CIA Triad and Security Scenarios](Activities/12 - CIA Triad/Solved/Readme.md)
-The Solutions to this activity will be updated after class.
+
 
 ### 14. Wrapping Up and Looking Ahead
 
