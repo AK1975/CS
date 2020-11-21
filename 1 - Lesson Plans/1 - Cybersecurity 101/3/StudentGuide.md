@@ -356,7 +356,6 @@ Note the following about the CertMaster Practice tool:
 ### 12. Activity Review: Security+ Sample Questions
 
 - [Solution File: Security+ Sample Questions](Activities/11 Sec Questions/Solved/Readme.md)
-The solutions to this activity will be released after class.
 
 ### 13. Homework Introduction
 
