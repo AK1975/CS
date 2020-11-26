@@ -399,7 +399,7 @@ Risk analysts typically use spreadsheets to automate the calculation of these me
 
 ### 08. Activity Review: Threat Modeling Step 5: Risk Analysis 
 
-- [Solution Guide: Threat Modeling Step 5: Risk Analysis] (https://docs.google.com/spreadsheets/d/1v1QMihD0Y8C9bBFIFmdlZ9vIWQ0obubkHTK10KchteU/edit#gid=1384626883)
+- [Solution Guide: Threat Modeling Step 5: Risk Analysis](https://docs.google.com/spreadsheets/d/1v1QMihD0Y8C9bBFIFmdlZ9vIWQ0obubkHTK10KchteU/edit#gid=1384626883)
 
 
 ### 09. Mitigating Risk 
