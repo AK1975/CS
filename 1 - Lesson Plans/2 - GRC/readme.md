@@ -109,7 +109,6 @@ These resources are provided as optional, recommended resources to supplement th
 This unit's homework assignment can be viewed here: 
 
 - [GRC Homework File](../../2 - Homework/2 - GRC/Readme.md)
-- It will be uploaded after the last class for the week.
 
 ### Looking Forward
 
