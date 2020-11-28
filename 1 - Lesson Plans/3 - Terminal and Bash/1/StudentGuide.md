@@ -474,7 +474,7 @@ In the next activity, we'll use these same concepts to continue preparing for an
 
 ### 06. Activity: Finding your Milky Way 
 
-- [Activity File: Finding your Milky Way](Activities/07 - Milkway/Unsolved/readme.md)
+- [Activity File: Finding your Milky Way](Activities/07 - Milkyway/Unsolved/readme.md)
 
 ### 07. Activity Review: Finding your Milky Way
 * [Solution Guide: Finding your Milky Way](Activities/07 - Milkway/Solved/readme.md)
