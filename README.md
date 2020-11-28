@@ -17,7 +17,7 @@ For each class, this repository will be updated (~ 30 minutes before/after). <br
 - [Day 3](1 - Lesson Plans/1 - Cybersecurity 101/3)
 
 ### Unit 2: Governance, Risk, and Compliance
-- [~~Homework Assignment~~](2-Homework/02-GRC/)
+- [Homework Assignment](2 - Homework/2 - GRC)
 - [Day 1](1 - Lesson Plans/2 - GRC/1)
 - [Day 2](1 - Lesson Plans/2 - GRC/2)
 - [Day 3](1 - Lesson Plans/2 - GRC/3)
