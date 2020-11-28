@@ -205,7 +205,7 @@ We covered the following concepts:
 
 ### 05. Activity: Using `sed`
 
-- [Activity File: Using `sed`](Activities/06_sed_activity/unsolved/readme.md)
+- [Activity File: Using `sed`](Activities/06_sed_activity/Unsolved/readme.md)
 - [Directories/Files: Using `sed`](Resources/learning_sed.zip)
 
 
