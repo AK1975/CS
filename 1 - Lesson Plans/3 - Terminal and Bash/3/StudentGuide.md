@@ -211,7 +211,7 @@ We covered the following concepts:
 
 ### 06. Activity Review: Using `sed`
 
-- [Solution Guide: Using `sed` Activity](Activities/06_sed_activity/solved/readme.md)
+- [Solution Guide: Using `sed` Activity](Activities/06_sed_activity/Solved/readme.md)
 * The Solutions to this Activity will be uploaded after class
 
 ### 07. Introduction to `awk`
@@ -350,13 +350,13 @@ You are tasked with isolating out the IP addresses and time or requests from the
 
 
 ### 08.  Activity: Using `awk` Activity
-- [Activity File: Using `awk` ](Activities/9 - Awk Activity/Unsolved/readme.md)
+- [Activity File: Using `awk` ](Activities/09_awk_activity/Unsolved/readme.md)
 
 
 ### 09. Activity Review: Using `awk`
 
 
-- [Solution Guide: Using `awk`](Activities/09 - Awk Activity/Solved/readme.md)
+- [Solution Guide: Using `awk`](Activities/09_awk_activity/Solved/readme.md)
 * The Solutions to this Activity will be uploaded after class
 
 ### 10. Break
