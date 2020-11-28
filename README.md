@@ -24,9 +24,9 @@ For each class, this repository will be updated (~ 30 minutes before/after). <br
 
 ### Unit 3: Introduction to Terminal and Bash
 - [~~Homework Assignment~~](2-Homework/03-Terminal/)
-- [~~Day 1~~](1-Lesson-Plans/03-Terminal-and-Bash/1)
-- [~~Day 2~~](1-Lesson-Plans/03-Terminal-and-Bash/2)
-- [~~Day 3~~](1-Lesson-Plans/03-Terminal-and-Bash/3)
+- [Day 1](1 - Lesson Plans/3 - Terminal and Bash/1)
+- [Day 2](1 - Lesson Plans/3 - Terminal and Bash/2)
+- [Day 3](1 - Lesson Plans/3 - Terminal and Bash/3)
 
 ### Unit 4: Linux System Administration Fundamentals
 - [~~Homework Assignment~~](2-Homework/04-Linux-SysAdmin-Fundamentals/)
