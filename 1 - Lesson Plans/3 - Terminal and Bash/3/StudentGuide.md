@@ -205,13 +205,13 @@ We covered the following concepts:
 
 ### 05. Activity: Using `sed`
 
-- [Activity File: Using `sed` ](Activities/6 - Sed Activity/Unsolved/readme.md)
-- [Directories/Files: Using `sed` ](Resources/learning_sed.zip)
+- [Activity File: Using `sed`](Activities/06_sed_activity/unsolved/readme.md)
+- [Directories/Files: Using `sed`](Resources/learning_sed.zip)
 
 
 ### 06. Activity Review: Using `sed`
 
-- [Solution Guide: Using `sed` Activity](Activities/6 - Sed Activity/Solved/readme.md)
+- [Solution Guide: Using `sed` Activity](Activities/06_sed_activity/solved/readme.md)
 * The Solutions to this Activity will be uploaded after class
 
 ### 07. Introduction to `awk`
