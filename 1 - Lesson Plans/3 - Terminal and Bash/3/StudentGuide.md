@@ -205,8 +205,8 @@ We covered the following concepts:
 
 ### 05. Activity: Using `sed`
 
-- [Activity File: Using `sed`](Activities/6 - Sed Activity/Unsolved/readme.md)
-- [Directories/Files: Using `sed`](Resources/learning_sed.zip)
+- [Activity File: Using `sed` ](Activities/6 - Sed Activity/Unsolved/readme.md)
+- [Directories/Files: Using `sed` ](Resources/learning_sed.zip)
 
 
 ### 06. Activity Review: Using `sed`
@@ -496,7 +496,7 @@ We will use Nano to create a simple shell script that contains the two following
 
 ### 13. Activity: My First Shell Script
 
-- [Activity File: My First Shell Script](Activities/14 -Shell Scripting/Unsolved/readme.md)
+- [Activity File: My First Shell Script](Activities/14 - Shell Scripting/Unsolved/readme.md)
 - [Directories/Files: My First Shell Script](Resources/first_shell_script.zip)
 
 ### 14. Activity Review: My First Shell Script
