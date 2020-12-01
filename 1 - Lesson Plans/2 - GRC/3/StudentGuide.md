@@ -148,7 +148,6 @@ Below is an example of a completed password policy:
 ### 04. Activity Review: Documenting Company Policies 
 
 - [Solution Guide: Documenting Company Policies](./Activities/03 - Documenting Company Policies/Solved/Readme.md)  
-- The solutions to this activity will be uploaded after class.
 
 ### 05. Managing Risk in IT Organizations
 
