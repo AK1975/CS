@@ -238,7 +238,6 @@ In the first command line activity of the day, you will use these commands to pr
 
 ### 04. Activity Review: Take Five and Practice the Command Line 
 * [Solution Guide: Take Five and Practice the Command Line](Activities/04 - Take Five/Solved/readme.md)
-* The Solutions to this Activity will be uploaded after class
  
 ### 05. Relative Vs. Absolute Paths and the `cp` and `mv` Commands 
 
@@ -478,7 +477,6 @@ In the next activity, we'll use these same concepts to continue preparing for an
 
 ### 07. Activity Review: Finding your Milky Way
 * [Solution Guide: Finding your Milky Way](Activities/07 - Milkway/Solved/readme.md)
-* The Solutions to this Activity will be uploaded after class
 
 ### 08. Break  
 
@@ -607,7 +605,6 @@ In the next activity, we will use these preview commands to begin investigating 
 
 ### 11. Activity Review: Review Oh Henry, What Did You Do?
 * [Solution Guide: Oh, Henry, What Did You Do?](Activities/11 - Oh Henry/Solved/readme.md)
-* The Solutions to this Activity will be uploaded after class
 
 ### 12. Data Streams and the `Cat` Command
 
@@ -761,7 +758,6 @@ In the final command line activity of the day, you will use all the commands you
 ### 14.  Activity Review: Internal Investigation: Finding the Kit `Cat` Burglar 
 
 - [Solution Guide: Internal Investigation: Finding the Kit Cat Burglar](Activities/14 - Kitcat/Solved/readme.md)
-* The Solutions to this Activity will be uploaded after class
 
 
 -------
