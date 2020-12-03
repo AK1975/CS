@@ -65,8 +65,7 @@ Commands for concatenating and redirecting:
 
 - [Activity File: Warm-Up](Activities/2 - Warmup/Unsolved/readme.md)
 - [Directories/Files: Warm Up](Resources/warmup.zip)
-- [Solution Guide: Warm-Up](Activities/02_warmup/solved/readme.md)
-* The Solutions to this Activity will be uploaded after class
+- [Solution Guide: Warm-Up](Activities/2 - Warmup/Solved/readme.md)
 
 
 
