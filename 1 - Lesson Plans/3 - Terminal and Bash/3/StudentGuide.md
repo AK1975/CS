@@ -65,7 +65,6 @@ Before diving into the next set of commands, let's review what we've covered so 
 - [Activity File: Warm-Up Activity](Activities/2 - Warmup/Unsolved/readme.md)
 - [Directories/Files: Warm-Up Activity](Resources/warmup.zip)
 - [Solution Guide: Warm-Up Activity](Activities/2 - Warmup/Solved/readme.md)
-* The Solutions to this Activity will be uploaded after class
 
 
 ### 03. Introduction to Text Processing
@@ -212,7 +211,6 @@ We covered the following concepts:
 ### 06. Activity Review: Using `sed`
 
 - [Solution Guide: Using `sed` Activity](Activities/06_sed_activity/Solved/readme.md)
-* The Solutions to this Activity will be uploaded after class
 
 ### 07. Introduction to `awk`
 
@@ -357,7 +355,6 @@ You are tasked with isolating out the IP addresses and time or requests from the
 
 
 - [Solution Guide: Using `awk`](Activities/09_awk_activity/Solved/readme.md)
-* The Solutions to this Activity will be uploaded after class
 
 ### 10. Break
 
@@ -502,7 +499,6 @@ We will use Nano to create a simple shell script that contains the two following
 ### 14. Activity Review: My First Shell Script
 
 - [Solution Guide: My First Shell Script](Activities/14 - Shell Scripting/Solved/readme.md)
-* The Solutions to this Activity will be uploaded after class
 
 ### 15. Passing Arguments
 
@@ -582,7 +578,6 @@ How to pass a single argument in a shell script:
 ### 17. Activity Review: Building an IP Lookup Tool
 
 - [Solution Guide: Building an IP Lookup Tool](Activities/17 - IP Lookup Activity/Solved/readme.md)
-* The Solutions to this Activity will be uploaded after class
 
 ### 18. Keeping Vagrant Updated
 

@@ -118,8 +118,7 @@ These resources are provided as optional, recommended resources to supplement th
 
 This unit's homework assignment can be viewed here: 
 
-- [Unit Homework File](../../2-Homework/03-Terminal)
-- It will be uploaded after the last class for the week.
+- [Unit Homework File](../../2 - Homework/3 - Terminal)
 
 ### Looking Forward 
 
