@@ -23,7 +23,7 @@ For each class, this repository will be updated (~ 30 minutes before/after). <br
 - [Day 3](1 - Lesson Plans/2 - GRC/3)
 
 ### Unit 3: Introduction to Terminal and Bash
-- [~~Homework Assignment~~](2-Homework/03-Terminal/)
+- [Homework Assignment](2 - Homework/3 - Terminal/)
 - [Day 1](1 - Lesson Plans/3 - Terminal and Bash/1)
 - [Day 2](1 - Lesson Plans/3 - Terminal and Bash/2)
 - [Day 3](1 - Lesson Plans/3 - Terminal and Bash/3)
