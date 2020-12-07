@@ -730,7 +730,7 @@ While this example is simple for ease of demonstration, the `kill` processes is 
 
 ### 10. Activity: Process Investigation
 
-- [Activity File: Process Investigation](Activities/10 Process Investigation/Unsolved/README.md)
+- [Activity File: Process Investigation](Activities/10 - Process Investigation/Unsolved/README.md)
 
 You will need to run `sudo bash /home/instructor/Documents/setup_scripts/instructor/processes.sh </dev/null &>/dev/null &` before starting this activity.
 
