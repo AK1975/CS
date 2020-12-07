@@ -204,13 +204,13 @@ Step 2: Running John the Ripper
 
 ### 03: Activity: Talk to John
 
-- [Activity File: Let's Talk to John](Activities/03 - Talk to John/Unsolved/README.md)
+- [Activity File: Let's Talk to John](Activities/3 - Talk to John/Unsolved/README.md)
 
 
 
 ### 04: Activity Review: Let's Talk to John
 
-- [Solution Guide: Let's Talk to John](Activities/03 - Talk to John/Solved/README.md)
+- [Solution Guide: Let's Talk to John](Activities/3 - Talk to John/Solved/README.md)
 - The solutions for this activity will be uploaded after class
 
 ### 05: Privileges, root, sudo and su Demo
@@ -527,7 +527,7 @@ Attackers often look for this kind of loophole to escalate their privileges on a
 
 ### 06: Activity: sudo Wrestling
 
-- [Activity File: sudo Wrestling](Activities/06 - Sudo Wrestling/Unsolved/README.md)
+- [Activity File: sudo Wrestling](Activities/6 - Sudo Wrestling/Unsolved/README.md)
 
 
 ### 07. Activity Review: sudo Wrestling
