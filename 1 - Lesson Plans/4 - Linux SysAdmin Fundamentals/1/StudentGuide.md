@@ -115,8 +115,7 @@ One of the most important skills you will gain in this module is comfort with th
 
 ### 04. Activity Review: Distribution Research
 
-- [Solution Guide: Distribution Research](Activities/3 - Distro Research/Solved/README.md)
-- The Answers to this Activity will be uploaded after class.
+- [Solution Guide: Distribution Research](Activities/03_Distro_Research/Solved/README.md)
 
 
 ### 05. Linux File System Structure
@@ -376,7 +375,6 @@ Because files in `/tmp` are deleted between reboots, hackers often save maliciou
 ### 07. Activity Review: Linux Landmarks
 
 - [Solution Guide: Linux Landmarks](Activities/6 - Linux Landmarks/Solved/README.md)
-- The Answers to this Activity will be uploaded after class.
 
 
 ---
@@ -736,8 +734,7 @@ You will need to run `sudo bash /home/instructor/Documents/setup_scripts/instruc
 
 ### 11. Activity Review: Process Investigation
 
-- [Solution Guide: Process Investigation](Activities/10 Process Investigation/Solved/README.md)
-- The Answers to this Activity will be uploaded after class.
+- [Solution Guide: Process Investigation](Activities/10 - Process Investigation/Solved/README.md)
 
 
 ### 12. Installing Packages
@@ -797,7 +794,6 @@ The final activity of the day will be a take home activity to practice installin
 ### 14. Take Home Activity Review: Installing Packages
 
 - [Solution Guide: Installing Packages](Activities/13 - Installing Packages/Solved/README.md)
-- The Answers to this Activity will be uploaded after class.
 
 
 -------
