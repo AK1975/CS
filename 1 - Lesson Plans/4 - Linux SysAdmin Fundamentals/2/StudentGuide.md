@@ -211,7 +211,6 @@ Step 2: Running John the Ripper
 ### 04: Activity Review: Let's Talk to John
 
 - [Solution Guide: Let's Talk to John](Activities/3 - Talk to John/Solved/README.md)
-- The solutions for this activity will be uploaded after class
 
 ### 05: Privileges, root, sudo and su Demo
 We've used `sudo` for several commands in the last two days of class.
@@ -534,7 +533,6 @@ Attackers often look for this kind of loophole to escalate their privileges on a
 
 
 - [Solution Guide: Sudo Wrestling](Activities/6 - Sudo Wrestling/Solved/README.md) 
-- The solutions for this activity will be uploaded after class
 
 ### 08. Break
 
@@ -785,7 +783,6 @@ Summary:
 
 
 - [Solution Guide: Users and Groups](Activities/10 - Users and Groups/Solved/README.md)
-- The solutions for this activity will be uploaded after class
 
 
 
