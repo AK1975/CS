@@ -29,7 +29,7 @@ For each class, this repository will be updated (~ 30 minutes before/after). <br
 - [Day 3](1 - Lesson Plans/3 - Terminal and Bash/3)
 
 ### Unit 4: Linux System Administration Fundamentals
-- [~~Homework Assignment~~](2-Homework/04-Linux-SysAdmin-Fundamentals/)
+- [Homework Assignment](2 - Homework/4 - Linux SysAdmin Fundamentals/)
 - [Day 1](1 - Lesson-Plans/4 - Linux SysAdmin Fundamentals/1)
 - [Day 2](1 - Lesson-Plans/4 - Linux SysAdmin Fundamentals/2)
 - [Day 3](1 - Lesson-Plans/4 - Linux SysAdmin Fundamentals/3)
