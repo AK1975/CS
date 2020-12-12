@@ -334,7 +334,6 @@ We needed the following commands:
 
 
 - [Solution Guide: Permissions](Activities/3 - Permissions/Solved/README.md)
-- The solutions for this activity will be uploaded after class
 
 
 ### 05. Break
@@ -597,14 +596,13 @@ Scheduling programs to run at certain times is a topic for next week's class. Fo
 
 
 - [Solution Guide: Service Users](Activities/10 - Service Users/Solved/Readme.md)
-- The solutions for this activity will be uploaded after class
 
 
 ### 12. Homework Instructions
 
 This week, you will practice all of the hardening steps you have learned this week, but on a new system. You will also be running a few new tools: `chkrootkit` and `lynis`.
 
-  - [Week 4 Homework: Linux SysAdmin Fundamentals](../../../2-Homework/04-Linux-SysAdmin-Fundamentals/Readme.md)
+  - [Week 4 Homework: Linux SysAdmin Fundamentals](../../../2 - Homework/04 - Linux SysAdmin Fundamentals/Readme.md)
 
 
 ---
