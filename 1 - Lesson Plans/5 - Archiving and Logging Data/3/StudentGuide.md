@@ -580,13 +580,13 @@ The steps that we needed to complete were:
 ### 05. Log Size Management Activity 
 
 
-- [Activity File: Log Size Management](./Activities/5 - Log Size Management.md/Unsolved/README.md)
+- [Activity File: Log Size Management](./Activities/5 - Log Size Management/Unsolved/README.md)
 
 
 ### 06. Log Size Management Review
 
 
-- [Solution Guide: Log Size Management](./Activities/5 - Log Size Management.md/Solved/README.md)
+- [Solution Guide: Log Size Management](./Activities/5 - Log Size Management/Solved/README.md)
 - The solutions to this activity will be uploaded after class
 
 ### 07. Log Auditing
