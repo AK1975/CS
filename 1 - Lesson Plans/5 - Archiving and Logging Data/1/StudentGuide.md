@@ -350,11 +350,11 @@ Extracting files from a tar archive should be done with caution and that testing
 
 ### 03. Creating and Restoring Backups with `tar` Activity 
 
-- [Activity File: Creating and Restoring Backups with tar](Activities/3 - Creating Restoring Backups/Unsolved/README.md)
+- [Activity File: Creating and Restoring Backups with tar](Activities/03_Creating_Restoring_Backups/Unsolved/README.md)
 
 ### 04. Review Creating and Restoring Backups with `tar` 
 
-- [Solution Guide: Creating and Restoring Backups using `tar`](Activities/3 - Creating Restoring Backups/Solved/README.md)
+- [Solution Guide: Creating and Restoring Backups using `tar`](Activities/03_Creating_Restoring_Backups/Solved/README.md)
 - Activities will be uploaded after class
 
 
@@ -990,13 +990,13 @@ In the next exercise, you will log in as an unprivileged user without `sudo` rig
 ### 09. Exploiting `tar`  (0:25)
 
 
-- [Activity File: Exploiting `tar`](Activities/10 - Exploiting Tar/Unsolved/README.md)
+- [Activity File: Exploiting `tar`](Activities/10_Exploiting_Tar/Unsolved/README.md)
 
 
 ### 10. Instructor Review: Exploiting `tar` (0:10)
 
 
-- [Solution Guide: Exploiting `tar`](Activities/10 - Exploiting Tar/Solved/README.md)
+- [Solution Guide: Exploiting `tar`](Activities/10_Exploiting_Tar/Solved/README.md)
 
 
 ---
