@@ -36,9 +36,9 @@ For each class, this repository will be updated (~ 30 minutes before/after). <br
 
 ### Unit 5: Linux Archiving and Logging Data
 - [~~Homework Assignment~~](2-Homework/05-Archiving-and-Logging-Data)
-- [~~Day 1~~](1-Lesson-Plans/05-Archiving-and-Logging-Data/1)
-- [~~Day 2~~](1-Lesson-Plans/05-Archiving-and-Logging-Data/2)
-- [~~Day 3~~](1-Lesson-Plans/05-Archiving-and-Logging-Data/3)
+- [Day 1](1 - Lesson-Plans/5 - Archiving and Logging-Data/1)
+- [Day 2](1 - Lesson-Plans/5 - Archiving and Logging-Data/2)
+- [Day 3](1 - Lesson-Plans/5 - Archiving and Logging-Data/3)
 
 ### Unit 6: Bash Scripting and Programming
 - [~~Homework Assignment~~](2-Homework/06-Bash-Scripting-and-Programming)

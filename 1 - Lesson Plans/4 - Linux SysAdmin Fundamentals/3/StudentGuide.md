@@ -476,8 +476,6 @@ We have removed Samba from the system, so the following commands won't work. But
 ### 08. Activity Review: Managing Services 
 
 - [Solution Guide: Managing Services](Activities/7 - Managing Services/Solved/Readme.md)
-- The solutions for this activity will be uploaded after class
-
 
 
 ### 09. Service Users
@@ -602,7 +600,7 @@ Scheduling programs to run at certain times is a topic for next week's class. Fo
 
 This week, you will practice all of the hardening steps you have learned this week, but on a new system. You will also be running a few new tools: `chkrootkit` and `lynis`.
 
-  - [Week 4 Homework: Linux SysAdmin Fundamentals](../../../2 - Homework/04 - Linux SysAdmin Fundamentals/Readme.md)
+  - [Week 4 Homework: Linux SysAdmin Fundamentals](../../../2 - Homework/4 - Linux SysAdmin Fundamentals/Readme.md)
 
 
 ---
