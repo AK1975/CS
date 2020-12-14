@@ -30,15 +30,15 @@ For each class, this repository will be updated (~ 30 minutes before/after). <br
 
 ### Unit 4: Linux System Administration Fundamentals
 - [Homework Assignment](2 - Homework/4 - Linux SysAdmin Fundamentals/)
-- [Day 1](1 - Lesson-Plans/4 - Linux SysAdmin Fundamentals/1)
-- [Day 2](1 - Lesson-Plans/4 - Linux SysAdmin Fundamentals/2)
-- [Day 3](1 - Lesson-Plans/4 - Linux SysAdmin Fundamentals/3)
+- [Day 1](1 - Lesson Plans/4 - Linux SysAdmin Fundamentals/1)
+- [Day 2](1 - Lesson Plans/4 - Linux SysAdmin Fundamentals/2)
+- [Day 3](1 - Lesson Plans/4 - Linux SysAdmin Fundamentals/3)
 
 ### Unit 5: Linux Archiving and Logging Data
 - [~~Homework Assignment~~](2-Homework/05-Archiving-and-Logging-Data)
-- [Day 1](1 - Lesson-Plans/5 - Archiving and Logging-Data/1)
-- [Day 2](1 - Lesson-Plans/5 - Archiving and Logging-Data/2)
-- [Day 3](1 - Lesson-Plans/5 - Archiving and Logging-Data/3)
+- [Day 1](1 - Lesson Plans/5 - Archiving and Logging Data/1)
+- [Day 2](1 - Lesson Plans/5 - Archiving and Logging Data/2)
+- [Day 3](1 - Lesson Plans/5 - Archiving and Logging Data/3)
 
 ### Unit 6: Bash Scripting and Programming
 - [~~Homework Assignment~~](2-Homework/06-Bash-Scripting-and-Programming)
