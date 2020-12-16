@@ -355,7 +355,6 @@ Extracting files from a tar archive should be done with caution and that testing
 ### 04. Review Creating and Restoring Backups with `tar` 
 
 - [Solution Guide: Creating and Restoring Backups using `tar`](Activities/03_Creating_Restoring_Backups/Solved/README.md)
-- Activities will be uploaded after class
 
 
 ### 05. Instructor Do: Incremental Backups with `tar` (0:15)
@@ -726,7 +725,6 @@ The demonstration is complete, we have restored the files in the `emergency` dir
 ### 07. Instructor Review: Restoring Data with Incremental Backups
 
 - [Solution Guide: Restoring Data with Incremental Backups](Activities/6 - Incremental Restore/Solved/README.md)
-- Activities will be uploaded after class
 
 
 ### 08. Exploiting the `tar` Command with the Checkpoint and Wildcard Options
