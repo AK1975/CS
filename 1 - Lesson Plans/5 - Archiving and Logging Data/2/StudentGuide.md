@@ -693,13 +693,13 @@ You can run specific scans with the command `sudo lynis audit --test-group <test
 
 ### 11. Additional Cron Assignment
 
-- [Activity File: Reviewing `cron`](./Activities/13 - Reviewing Crons/Unsolved/README.md)
+- [Activity File: Reviewing `cron`](./Activities/13_Reviewing_Crons/Unsolved/README.md)
 
 
 ### 12. Reviewing `cron` (0:10)
 
 
-- [Solution Guide: Reviewing `cron`](./Activities/13 - Reviewing Crons/Solved/README.md)
+- [Solution Guide: Reviewing `cron`](./Activities/13_Reviewing_Crons/Solved/README.md)
 
 ---
 
