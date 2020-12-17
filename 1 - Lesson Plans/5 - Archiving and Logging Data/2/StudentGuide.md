@@ -350,7 +350,6 @@ The root crontab is an exact replica of a user version, with the exception of th
 
 
 - [Solution Guide: Simple Cron Jobs](./Activities/3 - Simple Cronjobs/Solved/README.md)
-- The solutions to this activity will be uploaded after class
 
 ### 05. Introduction to Scripts
 
@@ -508,7 +507,6 @@ Using scripts allows us to complete complex tasks, such as creating backups or c
 ### 07. Review Introduction to Scripts Review 
 
 - [Solution Guide: Introduction to Scripts](./Activities/6 - Introduction to Scripts/Solved/README.md)
-- The solutions to this activity will be uploaded after class
 
 
 ### 08.  Scheduling Backups, Cleanups, and Security Checks
@@ -692,7 +690,6 @@ You can run specific scans with the command `sudo lynis audit --test-group <test
 ### 10.Review Scheduling Backups and Cleanups 
 
 - [Solution Guide: Scheduling Backups and Cleanups](./Activities/10 - Scheduling Backups and Cleanups/Solved/README.md)
-- The solutions to this activity will be uploaded after class
 
 ### 11. Additional Cron Assignment
 
@@ -703,7 +700,6 @@ You can run specific scans with the command `sudo lynis audit --test-group <test
 
 
 - [Solution Guide: Reviewing `cron`](./Activities/13 - Reviewing Crons/Solved/README.md)
-- The solutions to this activity will be uploaded after class
 
 ---
 
