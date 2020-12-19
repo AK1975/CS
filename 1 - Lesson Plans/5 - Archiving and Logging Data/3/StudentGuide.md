@@ -296,7 +296,6 @@ Knowing how to manage logs using `journalctl` is a crucial skill for security ad
 ### 03. Review Log Filtering 
 
 - [Solution Guide: Log Filtering](./Activities/3 - Log Filtering/Solved/README.md)
-- The solutions to this activity will be uploaded after class
  
 
 ### 04. Log Size Management 
@@ -587,7 +586,6 @@ The steps that we needed to complete were:
 
 
 - [Solution Guide: Log Size Management](./Activities/5 - Log Size Management/Solved/README.md)
-- The solutions to this activity will be uploaded after class
 
 ### 07. Log Auditing
 
@@ -895,7 +893,6 @@ Completing this demo required the following steps:
 ### 09. Review Event Monitor Log 
 
 - [Solution Guide: Event Monitor Logging](./Activities/9 - Event Monitor Logging/Solved/README.md)
-- The solutions to this activity will be uploaded after class
 
 
 -------
