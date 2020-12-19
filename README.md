@@ -35,7 +35,7 @@ For each class, this repository will be updated (~ 30 minutes before/after). <br
 - [Day 3](1 - Lesson Plans/4 - Linux SysAdmin Fundamentals/3)
 
 ### Unit 5: Linux Archiving and Logging Data
-- [Homework Assignment](2 - Homework/5 - Archiving and Logging Data/Unsolved)
+- [Homework Assignment](2 - Homework/5 - Archiving and Logging Data/)
 - [Day 1](1 - Lesson Plans/5 - Archiving and Logging Data/1)
 - [Day 2](1 - Lesson Plans/5 - Archiving and Logging Data/2)
 - [Day 3](1 - Lesson Plans/5 - Archiving and Logging Data/3)
