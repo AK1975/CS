@@ -253,7 +253,6 @@ Compound commands using `&&` typically follow this format:
 
 
 - [Solution Guide: Compound Commands](Activities/2 - Compound Commands/Solved/Readme.md)
-- The solutions to this activity will be uploaded after class.
 
 
 ### 04.  Creating Aliases
@@ -481,7 +480,6 @@ alias rm='rm -i'
 ### 06. Creating Aliases Review
 
 - [Solution Guide: Creating Aliases](Activities/5 - Creating Aliases/Solved/Readme.md)
-- The solutions to this activity will be uploaded after class.
 
 
 ### 07. My First Bash Script
@@ -826,7 +824,6 @@ Next, run `./my_script.sh`
 
 
 - [Solution Guide: My First Bash Script](Activities/9 - First Bash Script/Solved/Readme.md)
-- The solutions to this activity will be uploaded after class.
 
 
 ### 11. Custom Commands
@@ -978,7 +975,6 @@ Creating custom scripts that you can use as custom commands like this is a valua
 
 
 - [Solution Guide: Custom Command](Activities/12 - Custom Commands/Solved/Readme.md)
-- The solutions to this activity will be uploaded after class.
 
 
 -------
