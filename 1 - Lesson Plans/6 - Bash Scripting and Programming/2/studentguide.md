@@ -478,7 +478,6 @@ Syntax breakdown:
 ### 03. Variables and If Statements Review
 
 - [Solution Guide](Activities/3 - Var and if/Solved/Readme.md)
-- The solutions to this activity will be uploaded after class.
 
 ### 04. Lists and Loops (0:20)
 
@@ -803,7 +802,6 @@ Be sure to cover each part of the syntax:
 ### 06. Lists and Loops Review
 
 - [Solution Guide](Activities/6 - Lists and loops/Solved/Readme.md)
-- The solutions to this activity will be uploaded after class.
 
 ### 07. Break
 
@@ -1031,7 +1029,6 @@ Running commands from the command line is always quicker than and sometimes pref
 ### 10. Useful loops Review
 
 - [Solution Guide](Activities/9 - Useful Loops/Solved/Readme.md)
-- The solutions to this activity will be uploaded after class.
 
 
 ### 11. Script Along
