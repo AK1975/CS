@@ -29,29 +29,29 @@ Before you get started, please make sure you have the following:
 
 * Once logged in, you will next set up self-service password resets. This means that you will be able to reset your password if you lose or forget it. You will be asked for your personal email, which will be used as the recovery email address in case you forget your password.  You will not receive any unsolicited emails. 
 
-	![More Info](./Resources/Images/More-Info.png)
+	![More Info](./Images/More-Info.png)
 
 	When you click "Next", you'll be met with a page asking you to set up an Authentication Email. Select "Set it up now"
 
-	![Setup](./Resources/Images/setup.png)
+	![Setup](./Images/setup.png)
 
 	Here, you'll provide your preferred email address - this will be the email that is used if you forget your password.
 
-	![Email](./Resources/Images/email.png)
+	![Email](./Images/email.png)
 
 	You'll need to click "Email Me" to receive the confirmation email. This will send an email to the address you've provided, the email will come from "msonlineservicesteam".
 
 	The email that you receive should look something like this:
 
-	![Confirmation](./Resources/Images/confirmation.png)
+	![Confirmation](./Images/confirmation.png)
 
 	You'll enter the code that you received into the Azure page and select "Verify".
 	
-	![Verify](./Resources/Images/Verify.png)
+	![Verify](./Images/Verify.png)
 	
 	Once you've done this, you'll see a green check mark at the bottom, and you can now select "Finish"
 
-	![Finish](./Resources/Images/finish.png)
+	![Finish](./Images/finish.png)
 
 
 * Now you'll be able to load the dashboard, and you will see a card titled **Windows**. This contains the lab environment you will use for the upcoming Windows week. The remaining lab environments will be added as class progresses, and following the Windows week, you will next use this Azure account for the Network Security unit.
