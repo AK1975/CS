@@ -41,7 +41,7 @@ For each class, this repository will be updated (~ 30 minutes before/after). <br
 - [Day 3](1 - Lesson Plans/5 - Archiving and Logging Data/3)
 
 ### Unit 6: Bash Scripting and Programming
-- [~~Homework Assignment~~](2-Homework/06-Bash-Scripting-and-Programming)
+- [Homework Assignment](2 - Homework/6 - Bash Scripting and Programming)
 - [Day 1](1 - Lesson Plans/6 - Bash Scripting and Programming/1)
 - [Day 2](1 - Lesson Plans/6 - Bash Scripting and Programming/2)
 - [Day 3](1 - Lesson Plans/6 - Bash Scripting and Programming/3)
