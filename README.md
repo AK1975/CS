@@ -47,10 +47,10 @@ For each class, this repository will be updated (~ 30 minutes before/after). <br
 - [Day 3](1 - Lesson Plans/6 - Bash Scripting and Programming/3)
 
 ### Unit 7: Windows Administration and Hardening
-- [~~Homework Assignment~~](2-Homework/07-Windows-Administration-and-Hardening)
-- [~~Day 1~~](1-Lesson-Plans/07-Windows-Administration-and-Hardening/1)
-- [~~Day 2~~](1-Lesson-Plans/07-Windows-Administration-and-Hardening/2)
-- [~~Day 3~~](1-Lesson-Plans/07-Windows-Administration-and-Hardening/3)
+- [Homework Assignment](2 - Homework/7 - Windows Administration and Hardening)
+- [Day 1](1 - Lesson Plans/7 - Windows Administration and Hardening/1)
+- [Day 2](1 - Lesson Plans/7 - Windows Administration and Hardening/2)
+- [Day 3](1 - Lesson Plans/7 - Windows Administration and Hardening/3)
 
 ### Unit 8: Networking Fundamentals
 - [~~Homework Assignment~~](2-Homework/08-Networking-Fundamentals)
