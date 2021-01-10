@@ -48,7 +48,7 @@ For each class, this repository will be updated (~ 30 minutes before/after). <br
 
 ### Unit 7: Windows Administration and Hardening
 - [Homework Assignment](2 - Homework/7_Windows_Administration_and_Hardening)
-- [Day 1](1 - Lesson Plans/7 - Windows Administration and Hardening/1)
+- [Day 1](1 - Lesson Plans/7_Windows_Administration_and_Hardening/1)
 - [Day 2](1 - Lesson Plans/7 - Windows Administration and Hardening/2)
 - [Day 3](1 - Lesson Plans/7 - Windows Administration and Hardening/3)
 
