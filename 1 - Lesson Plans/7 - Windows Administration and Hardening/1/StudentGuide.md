@@ -652,7 +652,7 @@ Additionally, if you need more information about `wmic` usage, you can use the c
 ### 09. Activity Review: Creating a Report with wmic Output 
 
 
-- [Solution Guide: Creating a Report w ith `wmic` Output](Activities/8 - WMIC OS/Solved/readme.md)
+- [Solution Guide: Creating a Report w ith `wmic` Output](Activities/08_WMIC_OS/Solved/readme.md)
 - The solutions to this activity will be uploaded after class.
 
 #### Windows Management Instrumentation Command Summary
