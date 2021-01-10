@@ -646,7 +646,7 @@ Additionally, if you need more information about `wmic` usage, you can use the c
 
 
 ### 08. Activity: Creating a Report with wmic Output
-- [Activity File: Creating a Report with `wmic` Output](Activities/8 - WMIC OS/Unsolved/readme.md)
+- [Activity File: Creating a Report with `wmic` Output](Activities/08_WMIC_OS/Unsolved/readme.md)
 
 
 ### 09. Activity Review: Creating a Report with wmic Output 
@@ -852,11 +852,13 @@ It is important for system administrators to be able to quickly and reliably pul
 
 ### 11. Activity: Users, Groups and Password Policies
 
-- [Activity File: Users, Groups, and Password Policies](Activities/11_Users/Unsolved/readme.md)
+- [Activity File: Users, Groups, and Password Policies](Activities/11 - Users/Unsolved/readme.md)
 
 ### 12. Activity Review: Users, Groups, and Password Policies
 
-- [Solution Guide: Users, Groups, and Password Policies](Activities/11_Users/Solved/readme.md)
+- [Solution Guide: Users, Groups, and Password Policies](Activities/11 - Users/Solved/readme.md)
+- The solutions to this activity will be uploaded after class.
+
 
 ### 13. Creating Users and Setting Password Policy
 
