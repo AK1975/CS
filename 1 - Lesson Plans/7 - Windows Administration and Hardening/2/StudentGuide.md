@@ -643,12 +643,12 @@ In this demo, we will convert logs to the JSON data format using the `|` piping 
 
 ### 06. Activity: Generating Windows Event Log Files with Parameters and Pipelines
 
-- [Activity File: Generating Windows Logs](Activities/6 - Generating Windows Logs/Unsolved/Readme.md)
+- [Activity File: Generating Windows Logs](Activities/06_Generating_Windows_Logs/Unsolved/Readme.md)
 
 ### 07. Activity Review: Generating Windows Event Log Files with Parameters and Pipelines 
 
 
-- [Solution Guide: Generating Windows Log Files with Parameters and Pipelines](Activities/6 - Generating Windows Logs/Solved/Readme.md)
+- [Solution Guide: Generating Windows Log Files with Parameters and Pipelines](Activities/06_Generating_Windows_Logs/Solved/Readme.md)
 - The solutions to this activity will be uploaded after class
 
 ### 08. Scripting with PowerShell 
