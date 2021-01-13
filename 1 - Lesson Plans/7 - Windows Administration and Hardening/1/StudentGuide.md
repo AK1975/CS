@@ -492,7 +492,6 @@ As you get more proficient with the command line, you will be more prepared to e
 ### 06. Activity Review: Intro to Task Manager and CMD
 
 - [Solution Guide: Task Manager and CMD](Activities/5 - Intro CMD/Solved/readme.md)
-- The solutions to this activity will be uploaded after class.
 
 
 ### 07. Creating a Report with wmic Output
@@ -653,7 +652,6 @@ Additionally, if you need more information about `wmic` usage, you can use the c
 
 
 - [Solution Guide: Creating a Report w ith `wmic` Output](Activities/08_WMIC_OS/Solved/readme.md)
-- The solutions to this activity will be uploaded after class.
 
 #### Windows Management Instrumentation Command Summary
 
@@ -857,7 +855,6 @@ It is important for system administrators to be able to quickly and reliably pul
 ### 12. Activity Review: Users, Groups, and Password Policies
 
 - [Solution Guide: Users, Groups, and Password Policies](Activities/11 - Users/Solved/readme.md)
-- The solutions to this activity will be uploaded after class.
 
 
 ### 13. Creating Users and Setting Password Policy
@@ -997,7 +994,6 @@ They will follow these same steps to create users and set password policies on t
 ### 15. Activity Review: Creating Users and Setting Password Policy
 
 - [Solution Guide: Creating Users and Setting Password Policies](Activities/14 - Create User Password Policy/Solved/readme.md)
-- The solutions to this activity will be uploaded after class.
 
 ### 16. Instructor/Student Do: Task Scheduling  
 
@@ -1020,7 +1016,6 @@ Continue using the Windows RDP Host machine.
 - [Activity File: Task Scheduling ](Activities/16 - Scheduling Tasks/Unsolved/readme.md)
 
 - [Solution Guide: Task Scheduling](Activities/16 - Scheduling Tasks/Solved/readme.md)
-- The solutions to this activity will be uploaded after class.
 
 
 Use the user, `azadmin`, to create a newly scheduled task.
