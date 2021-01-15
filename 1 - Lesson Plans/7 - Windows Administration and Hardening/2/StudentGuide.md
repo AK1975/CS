@@ -488,7 +488,6 @@ We'll run through some more examples of parameters in PowerShell.
 ### 04. Activity Review: Move and Create Directories
 
 - [Solution Guide: Move and Create Directories](Activities/3 - Move and Create Dir/Solved/Readme.md)
-- The solutions to this activity will be uploaded after class
 
 ### 05. Generating Windows Event Log Files with Parameters and Pipelines
 
@@ -643,13 +642,12 @@ In this demo, we will convert logs to the JSON data format using the `|` piping 
 
 ### 06. Activity: Generating Windows Event Log Files with Parameters and Pipelines
 
-- [Activity File: Generating Windows Logs](Activities/06_Generating_Windows_Logs/Unsolved/Readme.md)
+- [Activity File: Generating Windows Logs with Parameters and Pipelines](Activities/06_Generating_Windows_Logs/Unsolved/Readme.md)
 
 ### 07. Activity Review: Generating Windows Event Log Files with Parameters and Pipelines 
 
 
 - [Solution Guide: Generating Windows Log Files with Parameters and Pipelines](Activities/06_Generating_Windows_Logs/Solved/Readme.md)
-- The solutions to this activity will be uploaded after class
 
 ### 08. Scripting with PowerShell 
 
@@ -1061,7 +1059,6 @@ For your activity you will apply these newly learned skills in the next activity
 ### 10. Activity Review: Removing Unnecessary Packages with PowerShell
 
   - [Solution Guide: Removing Unnecessary Packages with PowerShell](./Activities/9 - Removing Packages/Solved/Readme.md)
-  - The solutions to this activity will be uploaded after class
 
 |                                                       :warning: Shut Down Your Machines :warning:                                                       |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------:|
