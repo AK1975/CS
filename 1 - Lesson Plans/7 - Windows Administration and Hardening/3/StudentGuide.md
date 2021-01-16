@@ -397,7 +397,6 @@ A new group, `Marketing`, will appear in the `GC Users > Marketing` organization
 ### 05. Review Creating Domain OUs, Users, Groups Review 
 
 - [Solution Guide: Creating OUs, Users, and Groups](Activities/4 - Creating OUs Users Groups/Solved/Readme.md)
-- The solutions to this activity will be uploaded after class
 
 ### 06. Break
 
@@ -608,7 +607,6 @@ For the activity, we'll need to create Group Policy Objects with policies and li
 ### 09. Creating Group Policy with Group Policy Objects Review
 
 - [Solution Guide: Creating Group Policy with Group Policy Objects](Activities/8 - Group Policy Objects/Solved/Readme.md)
-- The solutions to this activity will be uploaded after class
 
 ### 10. End Day and Shut Down Virtual Machines and Lab
 
