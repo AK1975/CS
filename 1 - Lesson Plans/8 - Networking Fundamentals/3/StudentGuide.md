@@ -421,12 +421,12 @@ We can also add additional options to `fping`. For example, if we add the `-g` a
 
 ### 07. enumeration with `ping`
 
-- [Activity File: enumeration with `ping`](Activities/7 - Enumerating with Ping/Unsolved/readme.md)
+- [Activity File: enumeration with `ping`](Activities/07_Enumerating_with_ping/Unsolved/readme.md)
 
 
 ### 08. Review enumeration with `ping`
 
-- [Solution Guide: enumeration with `ping`](Activities/7 - Enumerating with Ping/Solved/readme.md)
+- [Solution Guide: enumeration with `ping`](Activities/07_Enumerating_with_ping/Solved/readme.md)
 - The solutions to this activity will be uploaded after class
 
 
@@ -617,13 +617,13 @@ Results:
 ### 10. Enumeration with `traceroute`
 
 
-- [Activity File: Enumeration with `traceroute`](Activities/11 - Enumeration with Traceroute/Unsolved/readme.md)
+- [Activity File: Enumeration with `traceroute`](Activities/11_Enumeration_with_traceroute/Unsolved/readme.md)
 
 
 ### 11. Review Enumeration with `traceroute` Activity
 
 
-- [Solution Guide: Enumeration with `traceroute`](Activities/11 - Enumeration with Traceroute/Solved/readme.md)
+- [Solution Guide: Enumeration with `traceroute`](Activities/11_Enumeration_with_traceroute/Solved/readme.md)
 - The solutions to this activity will be uploaded after class
 
 ### 12. TCP is as Easy as One-Two-Three
