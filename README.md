@@ -53,10 +53,10 @@ For each class, this repository will be updated (~ 30 minutes before/after). <br
 - [Day 3](1 - Lesson Plans/7 - Windows Administration and Hardening/3)
 
 ### Unit 8: Networking Fundamentals
-- [~~Homework Assignment~~](2-Homework/08-Networking-Fundamentals)
-- [~~Day 1~~](1-Lesson-Plans/08-Networking-Fundamentals/1)
-- [~~Day 2~~](1-Lesson-Plans/08-Networking-Fundamentals/2)
-- [~~Day 3~~](1-Lesson-Plans/08-Networking-Fundamentals/3)
+- [Homework Assignment](2 - Homework/8 - Networking Fundamentals)
+- [Day 1](1 - Lesson Plans/8 - Networking Fundamentals/1)
+- [Day 2](1 - Lesson Plans/8 - Networking Fundamentals/2)
+- [Day 3](1 - Lesson Plans/8 - Networking Fundamentals/3)
 
 ### Unit 9: Networking Fundamentals and CTF Review
 - [~~Homework Assignment~~](2-Homework/09-Networking-Fundamentals-II-and-CTF-Review/)
