@@ -136,7 +136,6 @@ Network security professionals are the staff that design and implement practices
 ### 04. Network Security Activity Review
 
 - [Solution Guide: Network Security](Activities/3 - Netsec/Solved/readme.md)
-- The solutions to this activity will be uploaded after class
 
 ### 05. Instructor Do: Network Structure (0:15)
 
@@ -544,7 +543,6 @@ Finally, network and security professionals like to visualize the division betwe
 ### 08. Network Devices Activity Review
 
 - [Solution Guide: Network Devices ](Activities/9 - Netdev/Solved/readme.md)
-- The solutions to this activity will be uploaded after class
 
 ### 09. What's my (Network) Address? (0:15)
 
@@ -809,7 +807,6 @@ Switches use MAC addresses within a LAN to direct the traffic to specific device
 ### 11. Review Network Addressing Activity
 
 - [Solution Guide: Network Addressing](Activities/13 - Netadr/Solved/readme.md)
-- The solutions to this activity will be uploaded after class
 
 ### 12. Instructor Do: Addresses and the Internet (0:15)
 
@@ -964,7 +961,6 @@ Security professionals must understand how DNS Hijacking works.
 ### 14. Review DNS Hijacking Activity
 
 - [Solution Guide: DNS Hijacking](Activities/16 - Netdns/Solved/readme.md)
-- The solutions to this activity will be uploaded after class
 
 ---
 
