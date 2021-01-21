@@ -241,7 +241,6 @@ The output returns a snippet of the protocol header: `pap sent-username PAPUSER 
 ### 04. Review Interpreting Protocols Activity
 
 - [Solution Guide: Interpreting Protocols](Activities/3 - Protocols/Solved/readme.md)
-- The solutions to this activity will be uploaded after class
 
 ### 05. Ports  (0:15)
 
@@ -340,7 +339,6 @@ Ports Summary:
 
 
 - [Solution Guide: Ports](Activities/6 - Ports/Solved/readme.md)
-- The solutions to this activity will be uploaded after class
 
 
 ### 08. OSI Layers
@@ -563,7 +561,6 @@ Understanding the OSI model in a security context:
 
 
 - [Solution Guide: OSI Layers](Activities/10 - OSI/Solved/readme.md)
-- The solutions to this activity will be uploaded after class
 
 
 
@@ -746,7 +743,6 @@ Now that we've completed several configurations, we can analyze the captured log
 ### 13. Review Capturing Packets Activity
 
 - [Solution Guide: Capturing Packets](Activities/13 - Capturing Packets/Solved/readme.md)
-- The solutions to this activity will be uploaded after class
 
 
 ### 14. Analyzing HTTP Data
@@ -822,7 +818,6 @@ This clearly shows that Michael sent a message to the car shop stating that he p
 ### 16. Review Analyzing HTTP Data Activity
 
 - [Solution Guide: Analyzing HTTP Data](Activities/16 - HTTP/Solved/readme.md)
-- The solutions to this activity will be uploaded after class
 
 -------
 
