@@ -237,8 +237,7 @@ There are mitigation methods to protect against an **ARP poisoning attack**.
 
 ### 05. Review Analyzing ARP Activity
 
-- [Solution Guide: Analyzing ARP](Activities/4 - Analyzing ARP/Solved/readme.md)
-- The solutions to this activity will be uploaded after class
+- [Solution Guide: Analyzing ARP](Activities/4 - Analyzing ARP/Solved/ReadMe.md)
 
 ### 06. Instructor Do: `ping` (Layer 3: Network) (0:15)
 
@@ -426,8 +425,7 @@ We can also add additional options to `fping`. For example, if we add the `-g` a
 
 ### 08. Review enumeration with `ping`
 
-- [Solution Guide: enumeration with `ping`](Activities/07_Enumerating_with_ping/Solved/readme.md)
-- The solutions to this activity will be uploaded after class
+- [Solution Guide: enumeration with `ping`](Activities/07_Enumerating_with_ping/Solved/ReadMe.md)
 
 
 ### 09. Introduction to `traceroute`
@@ -623,8 +621,7 @@ Results:
 ### 11. Review Enumeration with `traceroute` Activity
 
 
-- [Solution Guide: Enumeration with `traceroute`](Activities/11_Enumeration_with_traceroute/Solved/readme.md)
-- The solutions to this activity will be uploaded after class
+- [Solution Guide: Enumeration with `traceroute`](Activities/11_Enumeration_with_traceroute/Solved/ReadMe.md)
 
 ### 12. TCP is as Easy as One-Two-Three
 
@@ -805,8 +802,7 @@ Wireshark can also easily distinguish between the client and the server in these
 ### 14. Review Analyzing TCP Traffic Activity (0:08)
 
 
-- [Solution Guide: Analyzing TCP Traffic](Activities/14 - Analyzing TCP Traffic/Solved/readme.md)
-- The solutions to this activity will be uploaded after class
+- [Solution Guide: Analyzing TCP Traffic](Activities/14 - Analyzing TCP Traffic/Solved/ReadMe.md)
 
 ### 15. Instructor Do: SYN Scan (0:15)
 
@@ -977,8 +973,7 @@ Since Company X's London machine is only supposed to allow web traffic on port `
 
 ### 17. Review Analyzing a SYN Scan Activity
 
-- [Solution Guide: Analyzing a SYN Scan ](Activities/17 - Analyzing SYN Scan/Solved/readme.md)
-- The solutions to this activity will be uploaded after class
+- [Solution Guide: Analyzing a SYN Scan ](Activities/17 - Analyzing SYN Scan/Solved/ReadMe.md)
 
 -------
 
