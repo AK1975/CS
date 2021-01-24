@@ -260,12 +260,12 @@ There is a command-line tool called `nslookup` (_name server lookup_) that allow
 
 ### 03. DNS Record Types Activity  
 
-- [Activity File: DNS Record Types](activities/3 - DNS Record Types/Unsolved/readme.md) 
+- [Activity File: DNS Record Types](Activities/3 - DNS Record Types/Unsolved/readme.md) 
 
 
 ### 04. Instructor Do: Review DNS Record Types Activity (0:10)
 
-- [Solution Guide: DNS Record Types](activities/3 - DNS Record Types/Solved/readme.md) 
+- [Solution Guide: DNS Record Types](Activities/3 - DNS Record Types/Solved/readme.md) 
 - The solutions to this activity will be uploaded after class.
 
 
