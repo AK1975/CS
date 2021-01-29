@@ -290,7 +290,6 @@ We can protect against DHCP spoofing through a process known as DHCP snooping.
 ### 05. Review DHCP Attacks Activity 
 
 - [Solution Guide: DHCP Attacks](Activities/4 - DHCP Attacks/Solved/readme.md) 
-- The solutions to this activity will be uploaded after class.
 
 ### 06. Routing Schemes and Protocols 
 
@@ -406,7 +405,6 @@ In the above example, Device A needs to send data to Device C.
 
 
 - [Solution Guide: Routing Schemes and Protocols](Activities/7 - Routing Schemes and Protocols/Solved/readme.md) 
-- The solutions to this activity will be uploaded after class.
 
 
 ### 09. Wireless Networking
@@ -540,7 +538,6 @@ In order to view whether or not they are using WPA and find out the WPA version,
 
 
 - [Solution Guide: Analyzing Wireless Security](Activities/11 - Analyzing Wireless Security/Solved/readme.md) 
-- The solutions to this activity will be uploaded after class.
 
 
 ### 12. Instructor Do: Decrypting with Aircrack-NG (0:05)
@@ -636,7 +633,6 @@ While all the above methods are attacks that use a legitimate wireless access po
 
 
 - [Solution Guide: Wireless Attacks](Activities/14 - Wireless Attacks/Solved/readme.md) 
-- The solutions to this activity will be uploaded after class.
 
 -------
 
