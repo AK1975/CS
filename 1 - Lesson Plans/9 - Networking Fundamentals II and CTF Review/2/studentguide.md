@@ -266,7 +266,6 @@ There is a command-line tool called `nslookup` (_name server lookup_) that allow
 ### 04. Instructor Do: Review DNS Record Types Activity (0:10)
 
 - [Solution Guide: DNS Record Types](Activities/3 - DNS Record Types/Solved/readme.md) 
-- The solutions to this activity will be uploaded after class.
 
 
 ### 05. Introduction to Email Networking 
@@ -393,7 +392,6 @@ You may notice email headers that begin with an "x", such as: **x-mailer**, **x-
 ### 07. Review Email Networking Activity 
 
 - [Solution Guide: Email Networking](Activities/6 - Email Networking/Solved/readme.md) 
-- The solutions to this activity will be uploaded after class.
 
 
 ### 08. Instructor Do: Email Security Issues (0:15)
@@ -521,7 +519,6 @@ Many email systems have built-in technologies that automate the above methods to
 
 
 - [Solution Guide: Email Security](Activities/9 - Email Security/Solved/readme.md) 
-- The solutions to this activity will be uploaded after class.
 
 
 ### 11. Networking Concepts Review Activity 
@@ -533,7 +530,6 @@ Many email systems have built-in technologies that automate the above methods to
 ### 12. Review Networking Review Activity 
 
 - [Solution Guide: Networking Review](Activities/13 - Networking Review/Solved/readme.md)
-- The solutions to this activity will be uploaded after class.
 
 ### 13. Networking Attacks Activity
 
@@ -543,7 +539,6 @@ Many email systems have built-in technologies that automate the above methods to
 ### 17. Review Networking Attacks Activity
 
 - [Solution Guide: Networking Attacks Review](Activities/16 - Networking Attacks Review/Solved/readme.md)
-- The solutions to this activity will be uploaded after class.
 
 -------
 
