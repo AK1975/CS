@@ -17,7 +17,7 @@ For each class, this repository will be updated (~ 30 minutes before/after). <br
 - [Day 3](1 - Lesson Plans/01 - Cybersecurity 101/3)
 
 ### Unit 2: Governance, Risk, and Compliance
-- [Homework Assignment](02 - Homework/2 - GRC)
+- [Homework Assignment](02 - Homework/02 - GRC)
 - [Day 1](1 - Lesson Plans/02 - GRC/1)
 - [Day 2](1 - Lesson Plans/02 - GRC/2)
 - [Day 3](1 - Lesson Plans/02 - GRC/3)
@@ -65,10 +65,10 @@ For each class, this repository will be updated (~ 30 minutes before/after). <br
 - [Day 3](1 - Lesson Plans/09 - Networking Fundamentals II and CTF Review/3)
 
 ### Unit 10: Cryptography
-- [~~Homework Assignment~~](2-Homework/10-Cryptography)
-- [~~Day 1~~](1-Lesson-Plans/10-Cryptography/1)
-- [~~Day 2~~](1-Lesson-Plans/10-Cryptography/2)
-- [~~Day 3~~](1-Lesson-Plans/10-Cryptography/3)
+- [~~Homework Assignment~~](2 - Homework/10 - Cryptography)
+- [Day 1](1 - Lesson-Plans/10 - Cryptography/1)
+- [Day 2](1 - Lesson-Plans/10 - Cryptography/2)
+- [Day 3](1 - Lesson-Plans/10 - Cryptography/3)
 
 ### Unit 11: Network Security
 - [~~Homework Assignment~~](2-Homework/11-Network-Security)
