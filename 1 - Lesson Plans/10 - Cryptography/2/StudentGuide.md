@@ -936,13 +936,13 @@ Summary:
 
 ### 16. Digital Signatures Activity
 
-- [Activity File: Digital Signatures](activities/17 - Digital Signatures/unsolved/readme.md)
+- [Activity File: Digital Signatures](activities/17 - Digital Signature Activity/unsolved/readme.md)
 - [Messages from Captain Strickland](resources/Stricklands_messages.zip)
 - [Captain Strickland's Public Key](resources/Public_Key)
 
 ### 17. Instructor Do: Review Digital Signatures Activity (0:05)
 
-- [Solution Guide: Digital Signature](activities/17 - Digital Signature/solved/readme.md)
+- [Solution Guide: Digital Signature](activities/17 - Digital Signature Activity/solved/readme.md)
 - The solutions to this activity will be uploaded after class
 
 -------
