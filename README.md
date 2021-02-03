@@ -65,10 +65,10 @@ For each class, this repository will be updated (~ 30 minutes before/after). <br
 - [Day 3](1 - Lesson Plans/09 - Networking Fundamentals II and CTF Review/3)
 
 ### Unit 10: Cryptography
-- [~~Homework Assignment~~](2 - Homework/10 - Cryptography)
-- [Day 1](1 - Lesson-Plans/10 - Cryptography/1)
-- [Day 2](1 - Lesson-Plans/10 - Cryptography/2)
-- [Day 3](1 - Lesson-Plans/10 - Cryptography/3)
+- [Homework Assignment](2 - Homework/10 - Cryptography)
+- [Day 1](1 - Lesson Plans/10 - Cryptography/1)
+- [Day 2](1 - Lesson Plans/10 - Cryptography/2)
+- [Day 3](1 - Lesson Plans/10 - Cryptography/3)
 
 ### Unit 11: Network Security
 - [~~Homework Assignment~~](2-Homework/11-Network-Security)
