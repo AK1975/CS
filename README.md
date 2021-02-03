@@ -11,58 +11,58 @@ For each class, this repository will be updated (~ 30 minutes before/after). <br
 - [Cyber-Curriculum](https://drive.google.com/file/d/12BxEdTxaOkSu2atgtVxUpPm7nqS-k3qA/view?usp=sharing)
 
 ### Unit 1: Security 101
-- [Homework Assignment](2 - Homework/1 - Cybersecurity 101)
-- [Day 1](1 - Lesson Plans/1 - Cybersecurity 101/1)
-- [Day 2](1 - Lesson Plans/1 - Cybersecurity 101/2)
-- [Day 3](1 - Lesson Plans/1 - Cybersecurity 101/3)
+- [Homework Assignment](2 - Homework/01 - Cybersecurity 101)
+- [Day 1](1 - Lesson Plans/01 - Cybersecurity 101/1)
+- [Day 2](1 - Lesson Plans/01 - Cybersecurity 101/2)
+- [Day 3](1 - Lesson Plans/01 - Cybersecurity 101/3)
 
 ### Unit 2: Governance, Risk, and Compliance
-- [Homework Assignment](2 - Homework/2 - GRC)
-- [Day 1](1 - Lesson Plans/2 - GRC/1)
-- [Day 2](1 - Lesson Plans/2 - GRC/2)
-- [Day 3](1 - Lesson Plans/2 - GRC/3)
+- [Homework Assignment](02 - Homework/2 - GRC)
+- [Day 1](1 - Lesson Plans/02 - GRC/1)
+- [Day 2](1 - Lesson Plans/02 - GRC/2)
+- [Day 3](1 - Lesson Plans/02 - GRC/3)
 
 ### Unit 3: Introduction to Terminal and Bash
-- [Homework Assignment](2 - Homework/3 - Terminal/)
-- [Day 1](1 - Lesson Plans/3 - Terminal and Bash/1)
-- [Day 2](1 - Lesson Plans/3 - Terminal and Bash/2)
-- [Day 3](1 - Lesson Plans/3 - Terminal and Bash/3)
+- [Homework Assignment](2 - Homework/03 - Terminal/)
+- [Day 1](1 - Lesson Plans/03 - Terminal and Bash/1)
+- [Day 2](1 - Lesson Plans/03 - Terminal and Bash/2)
+- [Day 3](1 - Lesson Plans/03 - Terminal and Bash/3)
 
 ### Unit 4: Linux System Administration Fundamentals
-- [Homework Assignment](2 - Homework/4 - Linux SysAdmin Fundamentals/)
-- [Day 1](1 - Lesson Plans/4 - Linux SysAdmin Fundamentals/1)
-- [Day 2](1 - Lesson Plans/4 - Linux SysAdmin Fundamentals/2)
-- [Day 3](1 - Lesson Plans/4 - Linux SysAdmin Fundamentals/3)
+- [Homework Assignment](2 - Homework/04 - Linux SysAdmin Fundamentals/)
+- [Day 1](1 - Lesson Plans/04 - Linux SysAdmin Fundamentals/1)
+- [Day 2](1 - Lesson Plans/04 - Linux SysAdmin Fundamentals/2)
+- [Day 3](1 - Lesson Plans/04 - Linux SysAdmin Fundamentals/3)
 
 ### Unit 5: Linux Archiving and Logging Data
-- [Homework Assignment](2 - Homework/5 - Archiving and Logging Data/)
-- [Day 1](1 - Lesson Plans/5 - Archiving and Logging Data/1)
-- [Day 2](1 - Lesson Plans/5 - Archiving and Logging Data/2)
-- [Day 3](1 - Lesson Plans/5 - Archiving and Logging Data/3)
+- [Homework Assignment](2 - Homework/05 - Archiving and Logging Data/)
+- [Day 1](1 - Lesson Plans/05 - Archiving and Logging Data/1)
+- [Day 2](1 - Lesson Plans/05 - Archiving and Logging Data/2)
+- [Day 3](1 - Lesson Plans/05 - Archiving and Logging Data/3)
 
 ### Unit 6: Bash Scripting and Programming
-- [Homework Assignment](2 - Homework/6 - Bash Scripting and Programming)
-- [Day 1](1 - Lesson Plans/6 - Bash Scripting and Programming/1)
-- [Day 2](1 - Lesson Plans/6 - Bash Scripting and Programming/2)
-- [Day 3](1 - Lesson Plans/6 - Bash Scripting and Programming/3)
+- [Homework Assignment](2 - Homework/06 - Bash Scripting and Programming)
+- [Day 1](1 - Lesson Plans/06 - Bash Scripting and Programming/1)
+- [Day 2](1 - Lesson Plans/06 - Bash Scripting and Programming/2)
+- [Day 3](1 - Lesson Plans/06 - Bash Scripting and Programming/3)
 
 ### Unit 7: Windows Administration and Hardening
-- [Homework Assignment](2 - Homework/7 - Windows Administration and Hardening)
-- [Day 1](1 - Lesson Plans/7 - Windows Administration and Hardening/1)
-- [Day 2](1 - Lesson Plans/7 - Windows Administration and Hardening/2)
-- [Day 3](1 - Lesson Plans/7 - Windows Administration and Hardening/3)
+- [Homework Assignment](2 - Homework/07 - Windows Administration and Hardening)
+- [Day 1](1 - Lesson Plans/07 - Windows Administration and Hardening/1)
+- [Day 2](1 - Lesson Plans/07 - Windows Administration and Hardening/2)
+- [Day 3](1 - Lesson Plans/07 - Windows Administration and Hardening/3)
 
 ### Unit 8: Networking Fundamentals
-- [Homework Assignment](2 - Homework/8 - Networking Fundamentals)
-- [Day 1](1 - Lesson Plans/8 - Networking Fundamentals/1)
-- [Day 2](1 - Lesson Plans/8 - Networking Fundamentals/2)
-- [Day 3](1 - Lesson Plans/8 - Networking Fundamentals/3)
+- [Homework Assignment](2 - Homework/08 - Networking Fundamentals)
+- [Day 1](1 - Lesson Plans/08 - Networking Fundamentals/1)
+- [Day 2](1 - Lesson Plans/08 - Networking Fundamentals/2)
+- [Day 3](1 - Lesson Plans/08 - Networking Fundamentals/3)
 
 ### Unit 9: Networking Fundamentals and CTF Review
-- [Homework Assignment](2 - Homework/9 - Networking Fundamentals II and CTF Review/)
-- [Day 1](1 - Lesson Plans/9 - Networking Fundamentals II and CTF Review/1)
-- [Day 2](1 - Lesson Plans/9 - Networking Fundamentals II and CTF Review/2)
-- [Day 3](1 - Lesson Plans/9 - Networking Fundamentals II and CTF Review/3)
+- [Homework Assignment](2 - Homework/09 - Networking Fundamentals II and CTF Review/)
+- [Day 1](1 - Lesson Plans/09 - Networking Fundamentals II and CTF Review/1)
+- [Day 2](1 - Lesson Plans/09 - Networking Fundamentals II and CTF Review/2)
+- [Day 3](1 - Lesson Plans/09 - Networking Fundamentals II and CTF Review/3)
 
 ### Unit 10: Cryptography
 - [~~Homework Assignment~~](2-Homework/10-Cryptography)
