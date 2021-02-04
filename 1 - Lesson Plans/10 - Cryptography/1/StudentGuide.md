@@ -242,7 +242,6 @@ This is a brief introduction to the Enigma cipher. If you're interested in resea
 ### 04. Review Caesar Cipher Code Names Activity 
 
 - [Solution Guide: Caesar Cipher Code Names](activities/03 - Caesar Cipher Code Names/solved/readme.md)
-- The solutions to this activity will be uploaded after class
 
 
 ### 05. Introduction to Character Encoding
@@ -401,7 +400,6 @@ We will complete a brief walkthrough of decoding a binary message using Browserl
 ### 07. Review Decoding Activity
 
 - [Solution File: Decoding](activities/06 - Decoding/solved/readme.md)
-- The solutions to this activity will be uploaded after class
 
 
 ### 08. Goals of Cryptography 
@@ -588,7 +586,6 @@ There are many more cipher types.
 ### 11. Review Cryptography Concepts and Ciphers Activity 
 
 Solution file is available here: [Ciphers Activity Solution Guide](activities/10 - Ciphers/solved/readme.md)
-- The solutions to this activity will be uploaded after class
 
 
 
@@ -677,7 +674,6 @@ This walkthrough illustrates that for each bit of encryption that is added, ther
 ### 14. Review Encryption Strength Activity 
 
 - [Solution Guide: Encryption Strength](activities/14 - Encryption Strength/solved/readme.md) 
-- The solutions to this activity will be uploaded after class
    
 
 ### 15. Symmetric Key Algorithms 
@@ -865,7 +861,6 @@ Now, we will decrypt the encrypted message.
 The solution file is provided here:
 
 - [Solution Guide: Open SSL Activity Solution Guide](activities/17 - Open SSL/solved/readme.md)
-- The solutions to this activity will be uploaded after class
    
 
 
