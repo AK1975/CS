@@ -67,7 +67,6 @@ Before we introduce new concepts, let's review those taught in the last class:
 ### 03. Review Cryptography Refresher 
 
 - [Solution Guide: Cryptography Refresher](activities/02 - Cryptography Refresher/solved/readme.md)
-- The solutions to this activity will be uploaded after class
 
 ### 04. Introduction to Key Management and Exchange 
 
@@ -294,7 +293,6 @@ Summary
 ### 07. Review Optimizing with Asymmetric Public Keys Activity
 
 - [Solution Guide: Optimizing Asymmetric](activities/06 - Optimizing w Asymmetric/solved/readme.md).
-- The solutions to this activity will be uploaded after class
 
 
 ### 08. Applying Public Key Cryptography with GPG
@@ -516,7 +514,6 @@ Summary:
 ### 10.  Review GPG Activity 
 
 - [Solution Guide: GPG](activities/09 - GPG/solved/readme.md)
-- The solutions to this activity will be uploaded after class
 
 ### 11. Hashing and Data Integrity
 
@@ -709,7 +706,6 @@ Summary:
 ### 13. Review Generating Hashes Activity 
 
 - [Solution Guide: Generating Hashes](activities/13 - Generating Hashes/solved/readme.md)
-- The solutions to this activity will be uploaded after class
 
 ### 14.   Digital Signatures
 
@@ -943,7 +939,6 @@ Summary:
 ### 17. Instructor Do: Review Digital Signatures Activity (0:05)
 
 - [Solution Guide: Digital Signature](activities/17 - Digital Signature Activity/solved/readme.md)
-- The solutions to this activity will be uploaded after class
 
 -------
 
