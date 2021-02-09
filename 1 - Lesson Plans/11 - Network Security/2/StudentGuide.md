@@ -42,7 +42,7 @@ Before we get started, we will all log into Azure and launch an instance of Secu
 
     - Security Onion uses the command `sudo so-replay` to replay multiple PCAPS stored in the `/opt/samples` directory, which stores hundreds of PCAPs. It's essential, that network defenders have the capability to replay network traffic using PCAPS in order to analyze and triage alert data as we'll explore in today's lesson.
 
-- [Activity File: Security Onion Setup](Activities/01_Security_Onion_Setup/README.md)
+- [Activity File: Security Onion Setup](Activities/01 - Security Onion Setup/README.md)
 
 ### 02. Welcome and Overview
 
