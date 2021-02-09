@@ -76,7 +76,6 @@ Before we introduce new cryptography concepts, let's review the concepts covered
 ### 03. Cryptography Refresher Review
 
 - [Solution Guide: Cryptography Refresher](activities/02 - Cryptography Refresher/solved/readme.md)
-- The solutions to this activity will be uploaded after class.
 
 ### 04. Introduction to Applied Cryptography 
 
@@ -233,7 +232,6 @@ Summary:
 ### 06. Review Steganography Activity 
 
 - [Solution Guide: Steganography ](activities/04 - Steganography/solved/readme.md)
-- The solutions to this activity will be uploaded after class.
 
 ### 07. SSL Certificates
 
@@ -480,7 +478,6 @@ Summary:
 ### 09. Review SSL Certificates Activity 
 
 - [Solution Guide: SSL Certificate](activities/07 - SSL Certificates/solved/readme.md)
-- The solutions to this activity will be uploaded after class.
 
 ### 10. Cryptographic Attacks
 
@@ -635,7 +632,6 @@ Summary
 ### 12. Review Cryptographic Attacks Activity 
 
 - [Solution Guide: Cryptographic Attacks](activities/11 - Crypto Attacks/solved/readme.md)
-- The solutions to this activity will be uploaded after class.
 
 ### 13. Introduction to Rainbow Tables and Hashcat 
 
@@ -800,7 +796,6 @@ Summary:
 
 
 - [Solution Guide: Hashcat](activities/14 - Hashcat/unsolved/readme.md)
-- The solutions to this activity will be uploaded after class.
 
 
 -------
