@@ -71,10 +71,10 @@ For each class, this repository will be updated (~ 30 minutes before/after). <br
 - [Day 3](1 - Lesson Plans/10 - Cryptography/3)
 
 ### Unit 11: Network Security
-- [~~Homework Assignment~~](2-Homework/11-Network-Security)
-- [~~Day 1~~](1-Lesson-Plans/11-Network-Security/1)
-- [~~Day 2~~](1-Lesson-Plans/11-Network-Security/2)
-- [~~Day 3~~](1-Lesson-Plans/11-Network-Security/3)
+- [Homework Assignment](2 - Homework/11 - Network Security)
+- [Day 1](1 - Lesson Plans/11 - Network Security/1)
+- [Day 2](1 - Lesson Plans/11 - Network Security/2)
+- [Day 3](1 - Lesson Plans/11 - Network Security/3)
 
 ### Unit 12: Cloud Security and Virtualization
 - [~~Homework Assignment~~](2-Homework/12-Cloud-Security)
