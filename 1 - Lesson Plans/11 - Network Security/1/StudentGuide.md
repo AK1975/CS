@@ -1216,12 +1216,12 @@ The goal of this exercise was to test how our firewall interacts with various sc
 
 ### 10. Testing Firewall Rules with Nmap 
 
-- [Activity File: Testing Firewall Rules with Nmap](Activities/13 - Testing Firewall Rules (NMAP)/Unsolved/README.md)
+- [Activity File: Testing Firewall Rules with Nmap](Activities/13_Testing_Firewall_Rules_(NMAP)/Unsolved/README.md)
 
 
 ### 11. Testing Firewall Rules with Nmap Activity  
 
-- [Solution Guide: Testing Firewall Rules with Nmap ](Activities/13 - Testing Firewall Rules (NMAP)/Solved/README.md)
+- [Solution Guide: Testing Firewall Rules with Nmap ](Activities/13_Testing_Firewall_Rules_(NMAP)/Solved/README.md)
 - The solutions to this activity will be uploaded after class.
 
 
