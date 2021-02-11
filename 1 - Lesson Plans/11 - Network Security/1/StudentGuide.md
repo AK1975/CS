@@ -631,7 +631,6 @@ Knowing these concepts will help answer questions on the Security+ exam.
 ### 05. Review Configuring UFW Activity 
 
 - [Solution File: Configuring UFW](Activities/07 - Configuring UFW/Solved/README.md)
-- The solutions to this activity will be uploaded after class.
 
 
 ### 06. firewalld Introduction 
@@ -885,7 +884,6 @@ The steps we need to take are:
 ### 08. firewalld Configuration Activity 
 
 - [Solution Guide: firewalld Configuration](Activities/10 - Firewalld Configuration/Solved/README.md)
-- The solutions to this activity will be uploaded after class.
 
 
 ### 09.  Testing Firewall Rules with NMAP 
@@ -1222,7 +1220,6 @@ The goal of this exercise was to test how our firewall interacts with various sc
 ### 11. Testing Firewall Rules with Nmap Activity  
 
 - [Solution Guide: Testing Firewall Rules with Nmap ](Activities/13_Testing_Firewall_Rules_(NMAP)/Solved/README.md)
-- The solutions to this activity will be uploaded after class.
 
 
 ### Class Summary
