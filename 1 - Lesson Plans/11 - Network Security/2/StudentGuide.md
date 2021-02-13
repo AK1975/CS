@@ -281,7 +281,6 @@ Another example:
 ### 05. Review Intrusion Detection Systems and Snort Activity
 
 - [Solution Guide: Intrusion Detection Systems and Snort](Activities/04 - IDS and Snort/Solved/README.md)
-- The solutions to this activity will be uploaded after class.
 
 ### 06. Instructor Do: Network Security Monitoring and Security Onion
 
@@ -473,7 +472,6 @@ Analysts can use the data obtained from IP resolution to formulate attacker prof
 ### 08. Review Security Onion and NSM Overview Activity 
 
 - [Solution Guide: Security Onion and NSM Overview](Activities/07 - Security Onion NSM/Solved/README.md)
-- The solutions to this activity will be uploaded after class.
 
 
 ### 10. Instructor Do: Alert - FTP File Extraction
@@ -605,5 +603,4 @@ Security professionals, especially security researchers, use this website freque
 ### 12. Review Alert - FTP File Extraction 
 
 - [Solution Guide: Alert - FTP File Extraction](Activities/11_(Alert)_FTP_File_Extraction/Solved/README.md)
-- The solutions to this activity will be uploaded after class.
 
