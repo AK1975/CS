@@ -533,7 +533,7 @@ Pause and ask if there are any questions here before moving on.
 
 ### 12. Virtual Computing Activity
 
-- [Solution Guide: Virtual Networking](Activities/12_Virtual_Computing/Unsolved/README.md)
+- [Solution Guide: Virtual Networking](Activities/12_Virtual_Computing/Solved/README.md)
 - The solutions to this activity will be uploaded after class.
 
 

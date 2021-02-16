@@ -191,7 +191,7 @@ During the next activity, you will need to use the following modules:
 
 ### 04. Review Ansible Playbooks Activity
 
-- [Solution Guide: Ansible Playbook](Activities/03_Ansible_Playbooks/Unsolved/README.md)
+- [Solution Guide: Ansible Playbook](Activities/03_Ansible_Playbooks/Solved/README.md)
 - The solutions to this activity will be uploaded after class.
 
 
@@ -327,7 +327,7 @@ The high-level steps are:
 
 ### 14. Review Redundancy Activity
 
-- [Solution Guide: Redundancy](Activities/13_Redundancy/Unsolved/README.md)
+- [Solution Guide: Redundancy](Activities/13_Redundancy/Solved/README.md)
 - The solutions to this activity will be uploaded after class.
 
 -------
