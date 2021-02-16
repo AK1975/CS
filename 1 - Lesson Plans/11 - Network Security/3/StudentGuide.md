@@ -64,8 +64,7 @@ In the first activity, we'll explore how **command and control (C2) servers** ar
 
 ### 04. Review C2 Beacon Activity
 
-- [Solution Guide: C2 Beacon](Activities/0 - C2 Beacon/Solved/README.md)
-- The solutions to this activity will be uploaded after class.
+- [Solution Guide: C2 Beacon](Activities/04 - C2 Beacon/Solved/README.md)
 
 ### 05. Enterprise Security Monitoring 
 
@@ -312,7 +311,6 @@ We can verify the escalated event by:
 
 
 - [Solution Guide: Investigation, Analysis, and Escalation Activity](Activities/06 - Investigation Analysis and Escalation/Solved/README.md)
-- The solutions to this activity will be uploaded after class.
 
 ### 10. Threat Hunting - Cyber Threat Intelligence
 
