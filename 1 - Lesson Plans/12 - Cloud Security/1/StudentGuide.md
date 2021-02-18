@@ -240,7 +240,6 @@ Final vNet Settings should be similar to:
 ### 05. Virtual Networking Activity
 
 - [Solution Guide: Virtual Networking](Activities/04_Virtual_Networking/Solved/README.md)
-- The solutions to this activity will be uploaded after class.
 
 ### 06. Security Groups
 
@@ -333,7 +332,6 @@ Save your new security group rule.
 
 
 - [Solution Guide: Security Groups](Activities/09_Security_Groups/Solved/README.md)
-- The solutions to this activity will be uploaded after class.
 
 ### 10. Instructor Do: Virtual Computing (0:20)
 
@@ -534,7 +532,6 @@ Pause and ask if there are any questions here before moving on.
 ### 12. Virtual Computing Activity
 
 - [Solution Guide: Virtual Networking](Activities/12_Virtual_Computing/Solved/README.md)
-- The solutions to this activity will be uploaded after class.
 
 
 #### Summary
