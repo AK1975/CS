@@ -156,7 +156,6 @@ So where does the cloud come in?
 ### 04. Review Cloud Architecture Activity
 
 - [Solution Guide: Cloud Architecture](Activities/03_Cloud_Architecture/Solved/README.md)
-- The solutions to this activity will be uploaded after class.
 
 ### 05. Instructor Do: Jump Box Administration (0:10)
 
@@ -221,7 +220,6 @@ A VPN creates a direct connection between your local network and a remote networ
 
 
 - [Solution Guide: Jump Box Administration](Activities/06_Jumpbox_Admin/Solved/README.md)
-- The solutions to this activity will be uploaded after class.
 
 
 ### 08. Containers
@@ -421,7 +419,6 @@ Run `sudo docker run -ti bionic/ubuntu bash` to start the container.
 
 
 - [Solution Guide: Containers](Activities/09_Containers/Solved/README.md)
-- The solutions to this activity will be uploaded after class.
 
 ### 11.  Infrastructure as Code and Provisioners
 
@@ -736,7 +733,6 @@ Ansible has a `ping` command that will verify these connections.
 ### 14. Review Provisioners Activity
 
 - [Solution Guide: Provisioners](Activities/13_Provisioners/Solved/README.md)
-- The solutions to this activity will be uploaded after class.
 
 -------
 
