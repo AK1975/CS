@@ -192,7 +192,6 @@ During the next activity, you will need to use the following modules:
 ### 04. Review Ansible Playbooks Activity
 
 - [Solution Guide: Ansible Playbook](Activities/03_Ansible_Playbooks/Solved/README.md)
-- The solutions to this activity will be uploaded after class.
 
 
 
@@ -250,7 +249,6 @@ The DVWA VM you set up is intentionally not accessible from the internet at this
 ### 07. Review Load Balancing Activity
 
 - [Solution Guide: Load Balancing](Activities/06_Load_Balancing/Solved/README.md)
-- The solutions to this activity will be uploaded after class.
 
 
 ### 08. Instructor Do: Firewall Configuration (0:10)
@@ -292,7 +290,6 @@ Every time you create a rule, you should evaluate each option to determine if yo
 ### 10. Review: Security Configuration Activity
 
 - [Solution Guide: Security Configuration](Activities/09_Security_Configuration/Solved/README.md)
-- The solutions to this activity will be uploaded after class.
 
 ### 11.  Redundancy
 
@@ -328,7 +325,6 @@ The high-level steps are:
 ### 14. Review Redundancy Activity
 
 - [Solution Guide: Redundancy](Activities/13_Redundancy/Solved/README.md)
-- The solutions to this activity will be uploaded after class.
 
 -------
 
