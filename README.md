@@ -84,8 +84,8 @@ For each class, this repository will be updated (~ 30 minutes before/after). <br
 - [Day 4](1 - Lesson Plans/12 - Cloud Security/4)
 
 ### Unit 13: Project Week 1
-- [~~Homework Assignment~~](2-Homework/13-Github-Fundamentals)
-- [~~Week 1~~](1-Lesson-Plans/13-Elk-Stack-Project/Lessonplan.md)
+- [Homework Assignment](2 - Homework/13 - Github Fundamentals)
+- [Week 1](1 - Lesson Plans/13 - Elk Stack Project/StudentGuide.md)
 
 ### Unit 14: Web Development
 - [~~Homework Assignment~~](2-Homework/14-Web-Development)
