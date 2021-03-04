@@ -328,11 +328,11 @@ To make these changes on a diagram, we would:
 
 ### 03. Activity: Monolith to Microservices
 
-- [Activity File: Monolith to Microservices](./Activities/03 - Monolith_to_Microservices/Unsolved/README.md)
-- [Draw.io Diagram Template](./Activities/03 - Monolith_to_Microservices/Unsolved/activity_one_unsolved.drawio)
+- [Activity File: Monolith to Microservices](./Activities/03_Monolith_to_Microservices/Unsolved/README.md)
+- [Draw.io Diagram Template](./Activities/03_Monolith_to_Microservices/Unsolved/activity_one_unsolved.drawio)
 
 ### 04. Activity Review: Monolith to Microservices
-- [Solution Guide: Monolith to Microservices](./Activities/03 - Monolith_to_Microservices/Solved/README.md)
+- [Solution Guide: Monolith to Microservices](./Activities/03_Monolith_to_Microservices/Solved/README.md)
 - The solutions to this activity will be uploaded after class
 
 ### 05. Web Application Architecture
@@ -778,13 +778,13 @@ But first, we'll need to see how Docker Compose allows us to to create repeatabl
 
 
 ### 07. Activity: Deploying and Testing a Container Set
-- [Activity File: Deploying and Testing a Container Set](Activities/07 - Docker_Compose/Unsolved/README.md)
-- [Docker Compose File](Activities/07 - Docker_Compose/Unsolved/docker-compose.yml)
+- [Activity File: Deploying and Testing a Container Set](Activities/07_Docker_Compose/Unsolved/README.md)
+- [Docker Compose File](Activities/07_Docker_Compose/Unsolved/docker-compose.yml)
 
 ### 08. Break
 
 ### 09. Activity Review: Deploying and Testing a Container Set
-- [Solution Guide: Deploying and Testing a Container Set](Activities/07 - Docker_Compose/Solved/README.md)
+- [Solution Guide: Deploying and Testing a Container Set](Activities/07_Docker_Compose/Solved/README.md)
 - The solutions to this activity will be uploaded after class
 
 ### 10. Intro to Databases
@@ -1017,11 +1017,11 @@ We'll be doing the following database administration tasks in this demo:
 
 ### 11. Activity: Databases Management
 
-- [Activity File: Database Management](Activities/11 - Database_Management/Unsolved/README.md)
+- [Activity File: Database Management](Activities/11_Database_Management/Unsolved/README.md)
 
 ### 12. Activity Review: Databases Management Activity
 
-- [Solution Guide: Database Management](Activities/11 - Database_Management/Solved/README.md)
+- [Solution Guide: Database Management](Activities/11_Database_Management/Solved/README.md)
 - The solutions to this activity will be uploaded after class
 
 #### 13. Segue in SQL Injections

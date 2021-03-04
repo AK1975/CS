@@ -607,11 +607,11 @@ We just covered how to POST structured JSON data to an HTTP resource using the `
 
 ### 11. Activity: Using curl
 
-- [Activity File: Using `curl`](Activities/11 - Using_cURL/Unsolved/README.md)
+- [Activity File: Using `curl`](Activities/11_Using_cURL/Unsolved/README.md)
 
 ### 12. Activity Review: Using `curl` 
 
-- [Solution Guide: Using `curl`](Activities/11 - Using_cURL/Solved/README.md)
+- [Solution Guide: Using `curl`](Activities/11_Using_cURL/Solved/README.md)
 - The solutions to this activity will be uploaded after class
 
 ### 13. Sessions and Cookies
@@ -814,7 +814,7 @@ This activity will also show how an attacker can use stolen cookies to assume a 
 
 ### 14. Activity: Swapping Sessions Activity
 
-- [Activity File: Swapping Sessions](Activities/14 - Swapping_Sessions/Unsolved/README.md)
+- [Activity File: Swapping Sessions](Activities/15 - Swapping_Sessions/Unsolved/README.md)
 
 ### 15. Activity Review: Swapping Sessions
 
