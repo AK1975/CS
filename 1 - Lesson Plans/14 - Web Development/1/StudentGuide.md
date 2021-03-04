@@ -344,7 +344,7 @@ We just covered a lot of new information about HTTP requests and responses. Brie
 
 ### 04. Activity: HTTP Requests and Responses
 
-- [Activity File: HTTP Requests and Responses](Activities/04_HTTP_Requests_Responses/Unsolved/README.md)
+- [Activity File: HTTP Requests and Responses](Activities/04 - HTTP_Requests_Responses/Unsolved/README.md)
 - [HTTP Reference Sheet](./Activities/04 - HTTP_Requests_Responses/Unsolved/HTTP_Reference.md)
 
 
