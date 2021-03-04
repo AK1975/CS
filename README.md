@@ -88,9 +88,9 @@ For each class, this repository will be updated (~ 30 minutes before/after). <br
 - [Week 1](1 - Lesson Plans/13 - Elk Stack Project/StudentGuide.md)
 
 ### Unit 14: Web Development
-- [~~Homework Assignment~~](2-Homework/14-Web-Development)
-- [~~Day 1~~](1-Lesson-Plans/14-Web-Development/1)
-- [~~Day 2~~](1-Lesson-Plans/14-Web-Development/2)
+- [Homework Assignment](2 - Homework/14 - Web Development)
+- [Day 1](1 - Lesson Plans/14 - Web Development/1)
+- [Day 2](1 - Lesson Plans/14 - Web Development/2)
 
 ### Unit 15: Web Vulnerabilities and Hardening
 - [~~Homework Assignment~~](2-Homework/15-Web-Vulnerabilities-and-Hardening)
