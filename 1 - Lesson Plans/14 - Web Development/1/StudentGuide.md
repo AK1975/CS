@@ -352,7 +352,6 @@ We just covered a lot of new information about HTTP requests and responses. Brie
 
 
 - [Solution Guide: HTTP Requests and Responses](Activities/04 - HTTP_Requests_Responses/Solved/README.md)
-- The solutions to this activity will be uploaded after class
 
 
 ### 06. Using DevTools to Examine HTTP, Cookies, and Security
@@ -435,7 +434,6 @@ In their next activity, we will inspect the headers for the site CrowdStrike in 
 ### 08. Activity Review: Inspecting with Developer Tools 
 
 - [Solution Guide: Inspecting with Developer Tools](Activities/07 - Dev_Tools/Solved/README.md)
-- The solutions to this activity will be uploaded after class
 
 ---
 
@@ -612,7 +610,6 @@ We just covered how to POST structured JSON data to an HTTP resource using the `
 ### 12. Activity Review: Using `curl` 
 
 - [Solution Guide: Using `curl`](Activities/11_Using_cURL/Solved/README.md)
-- The solutions to this activity will be uploaded after class
 
 ### 13. Sessions and Cookies
 
